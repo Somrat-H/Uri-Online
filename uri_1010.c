@@ -13,7 +13,7 @@ int main(){
 
     x=((pn1*up1)+(pn2*up2));
 
-    printf("VOLAR A PAGAR: R$ %.2lf\n", x);
+    printf("VALAR A PAGAR: R$ %.2lf\n", x);
 
     return 0;
 
